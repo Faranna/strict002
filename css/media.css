@@ -1,0 +1,24 @@
+@media (min-width : 0px) and (max-width: 575px) {
+    .images {
+        text-align: center;
+    }
+    .footer_two p {
+        text-align: center;
+    }
+    .footer_two ul {
+        margin-top: 10px;
+        justify-content: space-around;
+    }
+    .second p {
+        font-size: 16px;
+    }
+    .banner h1 {
+        font-size: 110px;
+    }
+    .banner p{
+        font-size: 17px;
+    }
+    .third p {
+        margin-bottom: 13px;
+    }
+}
